@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# AELD assignment1
 # need space after/before '[' and ']'
 # space are required when using '!='
 if [ $# != "2" ]
